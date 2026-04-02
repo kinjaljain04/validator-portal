@@ -1,0 +1,5 @@
+# Suppress contributor statistics
+* linguist-language=TypeScript
+* linguist-language=JavaScript
+* linguist-language=CSS
+* linguist-language=JSON
